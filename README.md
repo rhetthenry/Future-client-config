@@ -1,1 +1,1 @@
-A Future client config file for minecraft
+A Future client config file for minecraft (only for cc)
